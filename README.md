@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenidos a Dareal</h1>
+<h1 align="center">Dareal Inc.</h1>
 <h3 align="center">Innovación en movimiento.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dareal-e&label=Profile%20views&color=0e75b6&style=flat" alt="dareal-e" /> </p>
